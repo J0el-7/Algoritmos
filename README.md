@@ -17,4 +17,4 @@ python lib/main.py
 - Python 3.x
 
 ## Autor
-Seu Nome
+Joel Danho
